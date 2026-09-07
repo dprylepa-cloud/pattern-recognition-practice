@@ -216,3 +216,22 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Кеш Python
+__pycache__/
+*.py[cod]
+
+# Службові файли Jupyter
+.ipynb_checkpoints/
+
+# Віртуальні середовища
+.venv/
+venv/
+
+# Секретні змінні
+.env
+
+# Службові файли операційних систем
+.DS_Store
+Thumbs.db
+
